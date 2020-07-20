@@ -1,0 +1,15 @@
+C:\Users\wandy\source\repos\ConsoleAppUmblerTest\ConsoleAppUmblerTest\bin\Debug\netcoreapp3.1\ConsoleAppUmblerTest.exe
+C:\Users\wandy\source\repos\ConsoleAppUmblerTest\ConsoleAppUmblerTest\bin\Debug\netcoreapp3.1\ConsoleAppUmblerTest.deps.json
+C:\Users\wandy\source\repos\ConsoleAppUmblerTest\ConsoleAppUmblerTest\bin\Debug\netcoreapp3.1\ConsoleAppUmblerTest.runtimeconfig.json
+C:\Users\wandy\source\repos\ConsoleAppUmblerTest\ConsoleAppUmblerTest\bin\Debug\netcoreapp3.1\ConsoleAppUmblerTest.runtimeconfig.dev.json
+C:\Users\wandy\source\repos\ConsoleAppUmblerTest\ConsoleAppUmblerTest\bin\Debug\netcoreapp3.1\ConsoleAppUmblerTest.dll
+C:\Users\wandy\source\repos\ConsoleAppUmblerTest\ConsoleAppUmblerTest\bin\Debug\netcoreapp3.1\ConsoleAppUmblerTest.pdb
+C:\Users\wandy\source\repos\ConsoleAppUmblerTest\ConsoleAppUmblerTest\obj\Debug\netcoreapp3.1\ConsoleAppUmblerTest.csprojAssemblyReference.cache
+C:\Users\wandy\source\repos\ConsoleAppUmblerTest\ConsoleAppUmblerTest\obj\Debug\netcoreapp3.1\ConsoleAppUmblerTest.AssemblyInfoInputs.cache
+C:\Users\wandy\source\repos\ConsoleAppUmblerTest\ConsoleAppUmblerTest\obj\Debug\netcoreapp3.1\ConsoleAppUmblerTest.AssemblyInfo.cs
+C:\Users\wandy\source\repos\ConsoleAppUmblerTest\ConsoleAppUmblerTest\obj\Debug\netcoreapp3.1\ConsoleAppUmblerTest.dll
+C:\Users\wandy\source\repos\ConsoleAppUmblerTest\ConsoleAppUmblerTest\obj\Debug\netcoreapp3.1\ConsoleAppUmblerTest.pdb
+C:\Users\wandy\source\repos\ConsoleAppUmblerTest\ConsoleAppUmblerTest\obj\Debug\netcoreapp3.1\ConsoleAppUmblerTest.genruntimeconfig.cache
+C:\Users\wandy\source\repos\ConsoleAppUmblerTest\ConsoleAppUmblerTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\wandy\source\repos\ConsoleAppUmblerTest\ConsoleAppUmblerTest\obj\Debug\netcoreapp3.1\ConsoleAppUmblerTest.csproj.CoreCompileInputs.cache
+C:\Users\wandy\source\repos\ConsoleAppUmblerTest\ConsoleAppUmblerTest\obj\Debug\netcoreapp3.1\ConsoleAppUmblerTest.csproj.CopyComplete

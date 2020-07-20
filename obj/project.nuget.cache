@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hyGoemqrmU8UhtNmcKoyr7+/rBUbUpqfWhuS6JJ7Y49V2O0RZJTyMmtod0l74WPvDdwEKuXESspzqjQS8DqQMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wandy\\source\\repos\\ConsoleAppUmblerTest\\ConsoleAppUmblerTest\\ConsoleAppUmblerTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wandy\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
